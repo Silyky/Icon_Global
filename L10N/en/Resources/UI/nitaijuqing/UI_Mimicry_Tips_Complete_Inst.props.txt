@@ -1,4 +1,4 @@
-Parent = None
+Parent = Material3'/Game/Resources/UI/UI_Main_01.UI_Main_01'
 ScalarParameterValues[3] =
 {
     ScalarParameterValues[0] =
@@ -25,13 +25,13 @@ TextureParameterValues[2] =
     TextureParameterValues[0] =
     {
         ParameterInfo = { Name=Sweep_Tex }
-        ParameterValue = None
+        ParameterValue = Texture2D'/Game/Resources/UI/nitaijuqing/UI_Miplot_Cards_Line.UI_Miplot_Cards_Line'
         ParameterName = None
     }
     TextureParameterValues[1] =
     {
         ParameterInfo = { Name=UI_Tex_01 }
-        ParameterValue = Texture2D'L10N/en/Resources/UI/nitaijuqing/UI_Mimicry_Tips_Complete.UI_Mimicry_Tips_Complete'
+        ParameterValue = Texture2D'/Game/Resources/UI/nitaijuqing/UI_Mimicry_Tips_Complete.UI_Mimicry_Tips_Complete'
         ParameterName = None
     }
 }
